@@ -1,0 +1,3 @@
+/home/xkzhai/OpenCV4_Linux/007channel/build/CMakeFiles/test_channel.dir
+/home/xkzhai/OpenCV4_Linux/007channel/build/CMakeFiles/edit_cache.dir
+/home/xkzhai/OpenCV4_Linux/007channel/build/CMakeFiles/rebuild_cache.dir

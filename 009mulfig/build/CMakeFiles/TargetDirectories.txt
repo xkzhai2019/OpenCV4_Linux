@@ -1,0 +1,3 @@
+/home/xkzhai/OpenCV4_Linux/009mulfig/build/CMakeFiles/test_mulfig.dir
+/home/xkzhai/OpenCV4_Linux/009mulfig/build/CMakeFiles/edit_cache.dir
+/home/xkzhai/OpenCV4_Linux/009mulfig/build/CMakeFiles/rebuild_cache.dir
