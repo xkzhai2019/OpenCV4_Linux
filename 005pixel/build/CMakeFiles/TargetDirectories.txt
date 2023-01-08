@@ -1,3 +1,0 @@
-/home/xkzhai/OpenCV4_Linux/005pixel/build/CMakeFiles/test_pixel.dir
-/home/xkzhai/OpenCV4_Linux/005pixel/build/CMakeFiles/edit_cache.dir
-/home/xkzhai/OpenCV4_Linux/005pixel/build/CMakeFiles/rebuild_cache.dir

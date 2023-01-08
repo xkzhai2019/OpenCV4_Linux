@@ -1,3 +1,0 @@
-/home/xkzhai/OpenCV_Linux/002Mat/build/CMakeFiles/test_Mat.dir
-/home/xkzhai/OpenCV_Linux/002Mat/build/CMakeFiles/edit_cache.dir
-/home/xkzhai/OpenCV_Linux/002Mat/build/CMakeFiles/rebuild_cache.dir

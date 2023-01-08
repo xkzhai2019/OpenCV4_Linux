@@ -1,3 +1,0 @@
-/home/xkzhai/OpenCV4_Linux/008hist/build/CMakeFiles/test_hist.dir
-/home/xkzhai/OpenCV4_Linux/008hist/build/CMakeFiles/edit_cache.dir
-/home/xkzhai/OpenCV4_Linux/008hist/build/CMakeFiles/rebuild_cache.dir

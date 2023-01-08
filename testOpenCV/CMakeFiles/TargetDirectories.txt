@@ -1,3 +1,0 @@
-/home/xkzhai/OpenCV_Linux/testOpenCV/CMakeFiles/test_install.dir
-/home/xkzhai/OpenCV_Linux/testOpenCV/CMakeFiles/edit_cache.dir
-/home/xkzhai/OpenCV_Linux/testOpenCV/CMakeFiles/rebuild_cache.dir
