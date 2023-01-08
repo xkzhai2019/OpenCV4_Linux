@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xkzhai/OpenCV4_Linux/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/opencv4.5.1/include/opencv4 -g -std=gnu++11 -o CMakeFiles/main.dir/013Trackbar.cpp.o -c /home/xkzhai/OpenCV4_Linux/013Trackbar.cpp",
+  "file": "/home/xkzhai/OpenCV4_Linux/013Trackbar.cpp"
+}
+]
